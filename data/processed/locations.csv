@@ -1,0 +1,89 @@
+location_id,state,city,locality,street_name,latitude,longitude,location_level,source_id,source_date
+LOC_IND_001,Delhi,Delhi,Connaught Place,Radial Road Inner Circle,28.6315,77.2167,locality,DS01,2026-03-25
+LOC_IND_002,Delhi,Delhi,Connaught Place,Barakhamba Road Axis,28.629,77.225,street,DS01,2026-03-25
+LOC_IND_003,Delhi,Delhi,Connaught Place,Block M Shop #12 CP Inner Circle,28.632,77.218,property,DS01,2026-03-25
+LOC_IND_004,Delhi,Delhi,Hauz Khas,Aurobindo Marg & Village Entry,28.5535,77.2065,locality,DS01,2026-03-25
+LOC_IND_005,Delhi,Delhi,Hauz Khas,Hauz Khas Village Designer Strip,28.554,77.195,street,DS01,2026-03-25
+LOC_IND_006,Delhi,Delhi,Karol Bagh,Ajmal Khan Road Market,28.6515,77.1905,locality,DS01,2026-03-25
+LOC_IND_007,Delhi,Delhi,Karol Bagh,Ghaffar Market Electronics Lane,28.652,77.192,street,DS01,2026-03-25
+LOC_IND_008,Delhi,Delhi,South Extension,South Extension Part 1 Main,28.572,77.2215,locality,DS01,2026-03-25
+LOC_IND_009,Delhi,Delhi,Nehru Place,Nehru Place Commercial Complex,28.549,77.252,locality,DS01,2026-03-25
+LOC_IND_010,Delhi,Delhi,Chandni Chowk,Main Chandni Chowk Heritage Road,28.656,77.2305,locality,DS01,2026-03-25
+LOC_IND_011,Maharashtra,Mumbai,Bandra West,Linking Road Retail Walk,19.06,72.836,locality,DS01,2026-03-25
+LOC_IND_012,Maharashtra,Mumbai,Bandra West,Hill Road High Street Avenue,19.055,72.83,street,DS01,2026-03-25
+LOC_IND_013,Maharashtra,Mumbai,Bandra West,Unit 4 Ground Floor Waterfield Road,19.058,72.834,property,DS01,2026-03-25
+LOC_IND_014,Maharashtra,Mumbai,BKC,Bandra Kurla Complex G Block,19.066,72.868,locality,DS01,2026-03-25
+LOC_IND_015,Maharashtra,Mumbai,BKC,Platina Tower Corporate Suite 402,19.0675,72.869,property,DS01,2026-03-25
+LOC_IND_016,Maharashtra,Mumbai,Lower Parel,Senapati Bapat Marg Mill Belt,19.001,72.83,locality,DS01,2026-03-25
+LOC_IND_017,Maharashtra,Mumbai,Andheri West,Lokhandwala Complex Market,19.1415,72.8285,locality,DS01,2026-03-25
+LOC_IND_018,Maharashtra,Mumbai,Powai,Hiranandani Central Avenue,19.1197,72.9051,locality,DS01,2026-03-25
+LOC_IND_019,Maharashtra,Mumbai,Colaba,Colaba Causeway Commercial,18.918,72.83,locality,DS01,2026-03-25
+LOC_IND_020,Karnataka,Bengaluru,Koramangala,80 Feet Road Startup Corridor,12.9352,77.6245,locality,DS01,2026-03-25
+LOC_IND_021,Karnataka,Bengaluru,Koramangala,100 Feet Road 4th Block High St,12.934,77.628,street,DS01,2026-03-25
+LOC_IND_022,Karnataka,Bengaluru,Koramangala,Prime Corner GF 5th Block,12.936,77.623,property,DS01,2026-03-25
+LOC_IND_023,Karnataka,Bengaluru,Indiranagar,100 Feet Road Lifestyle Strip,12.9719,77.6412,locality,DS01,2026-03-25
+LOC_IND_024,Karnataka,Bengaluru,Indiranagar,12th Main Boutique & Cafe Walk,12.973,77.6435,street,DS01,2026-03-25
+LOC_IND_025,Karnataka,Bengaluru,Whitefield,ITPL Main Road EPIP Zone,12.985,77.73,locality,DS01,2026-03-25
+LOC_IND_026,Karnataka,Bengaluru,HSR Layout,27th Main Commercial Corridor,12.9121,77.6446,locality,DS01,2026-03-25
+LOC_IND_027,Karnataka,Bengaluru,MG Road,Brigade Road Commercial Core,12.974,77.6075,locality,DS01,2026-03-25
+LOC_IND_028,Karnataka,Bengaluru,Jayanagar,4th Block Shopping Complex,12.928,77.583,locality,DS01,2026-03-25
+LOC_IND_029,Telangana,Hyderabad,Hitec City,Cyber Towers Tech Corridor,17.4474,78.3762,locality,DS01,2026-03-25
+LOC_IND_030,Telangana,Hyderabad,Hitec City,Mindspace Road IT Strip,17.443,78.381,street,DS01,2026-03-25
+LOC_IND_031,Telangana,Hyderabad,Jubilee Hills,Road No. 36 Luxury High Street,17.4325,78.4071,locality,DS01,2026-03-25
+LOC_IND_032,Telangana,Hyderabad,Banjara Hills,Road No. 1 Commercial Boulevard,17.4156,78.435,locality,DS01,2026-03-25
+LOC_IND_033,Telangana,Hyderabad,Gachibowli,Financial District Main Highway,17.4401,78.3489,locality,DS01,2026-03-25
+LOC_IND_034,Telangana,Hyderabad,Kukatpally,KPHB Main Commercial Belt,17.4938,78.3995,locality,DS01,2026-03-25
+LOC_IND_035,Telangana,Hyderabad,Madhapur,Ayyappa Society Food Street,17.4485,78.3908,locality,DS01,2026-03-25
+LOC_IND_036,Tamil Nadu,Chennai,T. Nagar,Usman Road Retail Epicenter,13.0418,80.2341,locality,DS01,2026-03-25
+LOC_IND_037,Tamil Nadu,Chennai,T. Nagar,Ranganathan Street Pedestrian Strip,13.04,80.231,street,DS01,2026-03-25
+LOC_IND_038,Tamil Nadu,Chennai,Anna Nagar,2nd Avenue Commercial High St,13.085,80.21,locality,DS01,2026-03-25
+LOC_IND_039,Tamil Nadu,Chennai,OMR,Thoraipakkam IT Expressway,12.94,80.235,locality,DS01,2026-03-25
+LOC_IND_040,Tamil Nadu,Chennai,Nungambakkam,Khader Nawaz Khan Road,13.06,80.245,locality,DS01,2026-03-25
+LOC_IND_041,Tamil Nadu,Chennai,Adyar,Lattice Bridge Road Junction,13.0067,80.257,locality,DS01,2026-03-25
+LOC_IND_042,West Bengal,Kolkata,Park Street,Park Street Food & Commercial,22.553,88.352,locality,DS01,2026-03-25
+LOC_IND_043,West Bengal,Kolkata,Park Street,Camac Street Corporate Avenue,22.548,88.354,street,DS01,2026-03-25
+LOC_IND_044,West Bengal,Kolkata,Salt Lake,Sector V IT Complex,22.578,88.432,locality,DS01,2026-03-25
+LOC_IND_045,West Bengal,Kolkata,New Town,Action Area 1 Commercial Center,22.585,88.46,locality,DS01,2026-03-25
+LOC_IND_046,West Bengal,Kolkata,Gariahat,Gariahat Crossing Shopping Hub,22.518,88.365,locality,DS01,2026-03-25
+LOC_IND_047,Gujarat,Ahmedabad,CG Road,Chimanlal Girdharlal High Street,23.03,72.56,locality,DS01,2026-03-25
+LOC_IND_048,Gujarat,Ahmedabad,SG Highway,Sarkhej-Gandhinagar Corporate,23.05,72.51,locality,DS01,2026-03-25
+LOC_IND_049,Gujarat,Ahmedabad,Prahlad Nagar,Corporate Road Garden Hub,23.011,72.508,locality,DS01,2026-03-25
+LOC_IND_050,Gujarat,Ahmedabad,Bodakdev,Judges Bungalow Road Retail,23.045,72.525,locality,DS01,2026-03-25
+LOC_IND_051,Maharashtra,Pune,FC Road,Fergusson College Road Commercial,18.5236,73.8415,locality,DS01,2026-03-25
+LOC_IND_052,Maharashtra,Pune,FC Road,Shop #5 Deccan Avenue FC Road,18.5238,73.8418,property,DS01,2026-03-25
+LOC_IND_053,Maharashtra,Pune,Koregaon Park,North Main Road High Street,18.5362,73.894,locality,DS01,2026-03-25
+LOC_IND_054,Maharashtra,Pune,Baner,Baner Main Road Commercial Corridor,18.559,73.7868,locality,DS01,2026-03-25
+LOC_IND_055,Maharashtra,Pune,Hinjewadi,Hinjewadi Phase 1 IT District,18.5913,73.7389,locality,DS01,2026-03-25
+LOC_IND_056,Maharashtra,Pune,Viman Nagar,Viman Nagar Central Commercial,18.5679,73.9143,locality,DS01,2026-03-25
+LOC_IND_057,Maharashtra,Pune,Kothrud,Paud Road & Karve Road Junction,18.5074,73.8077,locality,DS01,2026-03-25
+LOC_IND_058,Rajasthan,Jaipur,MI Road,Mirza Ismail Central Market,26.918,75.815,locality,DS01,2026-03-25
+LOC_IND_059,Rajasthan,Jaipur,C-Scheme,Ashok Nagar Commercial Avenue,26.908,75.805,locality,DS01,2026-03-25
+LOC_IND_060,Rajasthan,Jaipur,Malviya Nagar,Gaurav Tower Commercial Belt,26.855,75.812,locality,DS01,2026-03-25
+LOC_IND_061,Rajasthan,Jaipur,Raja Park,Raja Park High Street Food Lane,26.895,75.832,locality,DS01,2026-03-25
+LOC_IND_062,Uttar Pradesh,Lucknow,Hazratganj,MG Marg Heritage High Street,26.848,80.945,locality,DS01,2026-03-25
+LOC_IND_063,Uttar Pradesh,Lucknow,Gomti Nagar,Vibhuti Khand Corporate Park,26.862,81.002,locality,DS01,2026-03-25
+LOC_IND_064,Uttar Pradesh,Lucknow,Alambagh,Alambagh Metro Commercial Corridor,26.815,80.902,locality,DS01,2026-03-25
+LOC_IND_065,Chandigarh,Chandigarh,Sector 17,City Centre Commercial Plaza,30.741,76.782,locality,DS01,2026-03-25
+LOC_IND_066,Chandigarh,Chandigarh,Sector 35,Sector 35-C Hospitality Strip,30.725,76.765,locality,DS01,2026-03-25
+LOC_IND_067,Chandigarh,Chandigarh,Sector 22,Shastri Market Retail Axis,30.732,76.772,locality,DS01,2026-03-25
+LOC_IND_068,Madhya Pradesh,Bhopal,MP Nagar Zone 1,Maharana Pratap Nagar Zone-1,23.2332,77.4334,locality,DS01,2026-03-25
+LOC_IND_069,Madhya Pradesh,Bhopal,MP Nagar Zone 1,Shop #14 Jyoti Cineplex Complex,23.2335,77.4338,property,DS01,2026-03-25
+LOC_IND_070,Madhya Pradesh,Bhopal,New Market TT Nagar,TT Nagar Commercial Complex,23.2376,77.4012,locality,DS01,2026-03-25
+LOC_IND_071,Madhya Pradesh,Bhopal,Arera Colony 10 No.,10 No. Market Commercial Area,23.2132,77.4328,locality,DS01,2026-03-25
+LOC_IND_072,Madhya Pradesh,Bhopal,Kolar Road,Kolar Main Road Sarvdharm,23.1784,77.415,locality,DS01,2026-03-25
+LOC_IND_073,Madhya Pradesh,Bhopal,Hoshangabad Road,Hoshangabad Rd Commercial Strip,23.195,77.452,locality,DS01,2026-03-25
+LOC_IND_074,Madhya Pradesh,Indore,Vijay Nagar,Vijay Nagar Square Commercial,22.7533,75.8937,locality,DS01,2026-03-25
+LOC_IND_075,Madhya Pradesh,Indore,Vijay Nagar,Scheme 54 PU-4 Commercial Avenue,22.754,75.8945,street,DS01,2026-03-25
+LOC_IND_076,Madhya Pradesh,Indore,New Palasia,Palasia Commercial Corridor,22.7244,75.8839,locality,DS01,2026-03-25
+LOC_IND_077,Madhya Pradesh,Indore,Bhanwarkuan,Bhanwarkuan Student Hub,22.6936,75.8665,locality,DS01,2026-03-25
+LOC_IND_078,Madhya Pradesh,Indore,Chhappan Dukan,56 Dukan Food Street Zone,22.724,75.877,locality,DS01,2026-03-25
+LOC_IND_079,Madhya Pradesh,Indore,Rajwada,Sarafa & Rajwada Commercial Core,22.7186,75.8554,locality,DS01,2026-03-25
+LOC_IND_080,Kerala,Kochi,MG Road,Mahatma Gandhi Road Commercial,9.972,76.282,locality,DS01,2026-03-25
+LOC_IND_081,Kerala,Kochi,Edappally,NH 66 Lulu Commercial Zone,10.026,76.308,locality,DS01,2026-03-25
+LOC_IND_082,Kerala,Kochi,Kakkanad,Infopark Sez Road Corridor,10.015,76.362,locality,DS01,2026-03-25
+LOC_IND_083,Odisha,Bhubaneswar,Saheed Nagar,Janpath Commercial Corridor,20.292,85.845,locality,DS01,2026-03-25
+LOC_IND_084,Odisha,Bhubaneswar,Patia,KIIT University IT Corridor,20.355,85.818,locality,DS01,2026-03-25
+LOC_IND_085,Assam,Guwahati,GS Road,Christian Basti & Bhangagarh,26.155,91.775,locality,DS01,2026-03-25
+LOC_IND_086,Assam,Guwahati,Paltan Bazaar,Railway Station Commercial Area,26.182,91.75,locality,DS01,2026-03-25
+LOC_IND_087,Maharashtra,Nagpur,Dharampeth,West High Court Road,21.144,79.065,locality,DS01,2026-03-25
+LOC_IND_088,Maharashtra,Nagpur,Sadar,Residency Road Commercial Hub,21.162,79.082,locality,DS01,2026-03-25
